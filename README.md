@@ -4,8 +4,9 @@ Install Wireless Drivers for Fedora 24 on Broadcom
 Instructions:
 
 ```
-clone repo 
-chmod 700
+git clone https://github.com/robincoello/Fedora24BroadComWireless.git
+cd Fedora24BroadComWireless
+chmod +x
 sudo ./fedora24_broadcom_wl_install.sh
 ```
 
