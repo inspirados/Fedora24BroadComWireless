@@ -6,7 +6,7 @@ Instructions:
 ```
 git clone https://github.com/robincoello/Fedora24BroadComWireless.git
 cd Fedora24BroadComWireless
-chmod +x
+chmod +x fedora24_broadcom_wl_install.sh
 sudo ./fedora24_broadcom_wl_install.sh
 ```
 
